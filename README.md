@@ -1,8 +1,8 @@
 # Anime Basket
 
-Anime Basket is a website for streaming anime.
+Anime Basket is a website for streaming anime using gogoanime api.
 
-## Installation
+## Website
 
 ```bash
 https://animebasket.up.railway.app
